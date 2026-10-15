@@ -16,7 +16,7 @@
   AUTHOR:      Ali Raza (Ali Raza Muhammad Iqbal)
   ROBOTS:      index, follow, max-image-preview:large, max-snippet:-1
   LANGUAGE:    English
-  CANONICAL:   https://github.com/Ali-Raza-Muhammad-Iqbal
+  CANONICAL:   https://github.com/Ali-Raza-SE
 =====================================================================
 -->
 
@@ -26,7 +26,7 @@
   og:title       = Ali Raza — Java Backend Engineer | Spring Boot Developer
   og:description = Software Engineer building scalable Java/Spring Boot backends,
                    REST APIs, and enterprise-grade microservices.
-  og:url         = https://github.com/Ali-Raza-Muhammad-Iqbal
+  og:url         = https://github.com/Ali-Raza-SE
   og:site_name   = GitHub
   twitter:card   = summary_large_image
   twitter:title  = Ali Raza — Software Engineer | Java Backend Developer
@@ -45,7 +45,7 @@
   "url": "https://github.com/Ali-Raza-Muhammad-Iqbal",
   "sameAs": [
     "https://www.linkedin.com/in/ali-raza-software-engineer1",
-    "https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio"
+    "https://Ali-Raza-SE.github.io/portfolio"
   ],
   "email": "mailto:Mr_Ali_Raza@yahoo.com",
   "knowsAbout": [
@@ -54,7 +54,7 @@
     "Data Structures and Algorithms", "Database Management Systems", "SDLC", "SOLID Principles"
   ],
   "alumniOf": {
-    "@type": "EducationalOrganization",
+    "@type": "Virtual University Of Pakistan",
     "name": "Computer Science"
   },
   "nationality": {
@@ -84,7 +84,7 @@
   <a href="https://www.linkedin.com/in/ali-raza-software-engineer1">
     <img src="https://img.shields.io/badge/LinkedIn-Ali%20Raza-blue?style=for-the-badge&logo=linkedin" alt="Ali Raza LinkedIn Profile"/>
   </a>
-  <a href="https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio">
+  <a href="https://Ali-Raza-SE.github.io/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" alt="Ali Raza Developer Portfolio"/>
   </a>
   <a href="mailto:Mr_Ali_Raza@yahoo.com">
@@ -140,7 +140,7 @@ In addition to engineering enterprise software solutions, my background as a **C
 If you're looking for a rigorous **Backend Engineer** to build dependable server-side platforms, optimize database execution architectures, or collaborate on open-source initiatives — let's connect:
 
 - 💼 **Professional Network:** [LinkedIn — Ali Raza Software Engineer](https://www.linkedin.com/in/ali-raza-software-engineer1)
-- 🌐 **Interactive Portfolio:** [Ali Raza Portfolio](https://Ali-Raza-Muhammad-Iqbal.github.io/portfolio)
+- 🌐 **Interactive Portfolio:** [Ali Raza Portfolio](https://Ali-Raza-SE.github.io/portfolio)
 - 📧 **Direct Inbox:** [Mr_Ali_Raza@yahoo.com](mailto:Mr_Ali_Raza@yahoo.com)
 
 ---
